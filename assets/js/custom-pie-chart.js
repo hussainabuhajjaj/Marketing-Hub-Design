@@ -1,0 +1,1 @@
+$('.pie-chart').visualize({width:300,height:300,type:'pie',legend:true});
